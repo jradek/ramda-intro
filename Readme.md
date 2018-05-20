@@ -9,6 +9,7 @@ Getting started with [ramdajs](https://ramdajs.com/)
 * the file ```main.js``` is used for playing around
   * run with
   ```bash
+  npm update
   node ./src/main.js
   ```
 
