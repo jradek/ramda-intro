@@ -9,6 +9,7 @@
     "partial": "node ./src/partial.js",
     "decl": "node ./src/declarative.js",
     "immutability_obj": "node ./src/immutability_obj.js",
+    "contramap": "node ./src/contramap.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

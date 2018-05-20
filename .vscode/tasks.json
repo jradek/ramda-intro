@@ -27,6 +27,11 @@
             "type": "npm",
             "script": "immutability_obj",
             "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "contramap",
+            "problemMatcher": []
         }
     ]
 }

@@ -21,3 +21,8 @@ Getting started with [ramdajs](https://ramdajs.com/)
   * ```getting_started.js```
   * ```partial.js```
   * ...
+
+## Contramap example
+
+* ```contramap.js```
+* taken from [Oh composable World](https://www.youtube.com/watch?v=SfWR3dKnFIo&t=219s)
