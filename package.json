@@ -1,0 +1,19 @@
+{
+  "name": "ramda-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node ./src/main.js",
+    "gs": "node ./src/getting_started.js",
+    "partial": "node ./src/partial.js",
+    "decl": "node ./src/declarative.js",
+    "immutability_obj": "node ./src/immutability_obj.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
